@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spo2 Helper</string>
+    <string name="monitor_service_title">Spo2 Service</string>
+    <string name="monitor_service_text">"Monitoring Spo2."</string>
+    <string name="monitor_service_info">Spo2 Monitor Service - Disable as your like</string>
+    <string name="sendtest">Send Spo2 Test</string>
+    <string name="main_info_watch">Please make sure Galaxy Wearable\nis running in the background.\nAnd it shows the watch power percentage on the main menu.\nThe watch side is only to be installed. No need to open it.\nIt would be best if you turned on Always On.\n\nIf you need to test for a short time:\nPlease adjust the Screen Turn Off to 15 seconds and\nAdjust Show Last App to 20 seconds.\n\nIf the phone needs to play music\nIt is better to turn off Media Controls.</string>
+    <string name="enable_service">Enable Monitor Service</string>
+    <string name="info_per">Duration / Test Per Minute</string>
+    <string name="disable_service">Disable Monitor Service</string>
+    <string name="default_pause" translatable="false">10</string>
+</resources>

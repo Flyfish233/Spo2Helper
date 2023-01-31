@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">血氧助手</string>
+    <string name="monitor_service_title">血氧监测服务</string>
+    <string name="monitor_service_text">正在监测血氧。您可以关掉此通知，不影响使用</string>
+    <string name="monitor_service_info">血氧监测服务 - 觉得烦可以关闭</string>
+    <string name="sendtest">发送血氧测试</string>
+    <string name="main_info_watch">请确认三星穿戴在后台运行，\n并且显示电量百分比和剩余时间。\n手表端只需要安装就可以了。\n需要开启息屏提醒才能自动监测。\n\n若需要短时间测试，\n请将自动息屏调整为 15 秒，\n显示最后使用调整为 20 秒。\n\n若手机需要播放音乐，\n最好关闭”显示媒体控件“。</string>
+    <string name="enable_service">开启持续监测</string>
+    <string name="info_per">间隔时长(分)</string>
+    <string name="disable_service">关闭监测服务</string>
+</resources>
