@@ -66,7 +66,7 @@ Due to Samsung limitations (see below), there may be frequent test failures when
 
 ## Limitations
 
-Due to privacy policies such as Samsung and GDPR, Developers is not allowed to view sensitive data from these sensors, and only vetted healthcare teams can apply for a private SDK to access sensor data. View [Samsung Health Privileged SDK](https://developer.samsung.com/health/privileged).
+Due to privacy policies such as GDPR, Developers is not allowed to view sensitive data from these Samsung sensors, and only vetted healthcare teams can apply for a private SDK to access sensor data. View [Samsung Health Privileged SDK](https://developer.samsung.com/health/privileged).
 
 ## Acknowledgements
 
